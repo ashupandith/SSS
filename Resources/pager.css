@@ -1,0 +1,164 @@
+﻿.link1
+{
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+	padding:3px;
+}
+.link1 a
+{
+	text-decoration: none;
+	border: solid 1px #008000;
+	background-color: #A5CC2F;
+	color: #000000;
+	padding: 2px 8px 2px 8px;
+	text-align:right;
+}
+.link1  a:hover
+{
+	border: solid 1px  #74410E;
+	background-color: #E0831B;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 2px 8px 2px 8px;
+}
+.link
+{
+	font-family: Verdana;
+	font-size: 12px;
+	line-height: 14px;
+	color: #000000;
+	padding: 2px 8px 2px 8px;
+	border: solid 1px #008000;
+	
+}
+
+.tablink1
+{
+	font-family: Verdana;
+	font-size:12px;
+	color: #000000;
+	 padding-right:4px;
+	 line-height:27px;
+	 text-align:center;
+	
+}
+.tablink1 a
+{
+	text-decoration: none;
+	border: solid 1px #ABB3BE;
+	background-color: #E7E6D8;
+	color: #000000;
+	padding: 6px 15px 6px 15px;
+	text-align:right;
+
+}
+.tablink1  a:hover
+{
+	border: solid 1px  #ABB3BE;
+	background-color: #ABB3BE;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 6px 15px 6px 15px;
+	text-align:right;
+}
+
+.tablink2
+{
+	font-family: Verdana;
+	font-size: 12px;
+	color: #000000;
+	 padding-right:4px;
+	 line-height:27px;
+	 text-align:center;
+	
+}
+.tablink2 a
+{
+	text-decoration: none;
+	border: solid 1px #ABB3BE;
+	background-color: #ABB3BE;
+	color: #000000;
+	padding: 6px 15px 6px 15px;
+	text-align:right;
+
+}
+.tablink2  a:hover
+{
+	border: solid 1px  #ABB3BE;
+	background-color: #ABB3BE;
+	color: #ffffff;
+	text-decoration: none;
+	padding: 6px 15px 6px 15px;
+	text-align:right;
+}
+
+
+.highslide-html {
+    background-color: white;
+}
+.highslide-html-content {
+	position: absolute;
+    display: none;
+}
+.highslide-loading {
+    display: block;
+	color: black;
+	font-size: 8pt;
+	font-family: sans-serif;
+	font-weight: bold;
+    text-decoration: none;
+	padding: 2px;
+	border: 1px solid black;
+    background-color: white;
+}
+
+.control {
+	float: right;
+    display: block;
+	margin: 0 5px;
+	font-size: 9pt;
+    font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #999;
+}
+.control:hover {
+	color: black !important;
+}
+.highslide-move {
+    cursor: move;
+}
+.highslide 
+{
+	font-family: tahoma;
+	font-size: 12px;
+	color: #000000;
+	text-decoration:none;
+}
+.highslide a
+{
+	text-decoration:none;
+	color:#000000;
+}
+.highslide a:hover
+{
+	text-decoration:underline;
+	color:Red;
+}
+.highslide-body
+{
+}
+.highslide-display-block {
+    display: block;
+}
+.highslide-display-none {
+    display: none;
+}
+.modalBackground {
+	background-color: Gray;
+	filter: alpha(opacity=50);
+	opacity: 0.5;
+}
+

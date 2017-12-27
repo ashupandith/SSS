@@ -1,0 +1,164 @@
+﻿
+body
+{
+	margin: 8px;
+	font: 11px 'Arial';
+	line-height: 10px;
+}
+@media print
+{
+	@page 
+	{
+	 size: landscape;
+ 	 margin: 0mm;
+	 }
+}
+@page contentwraper
+{
+	/*size: 8.27in 11.69in;*/
+	 size: landscape;
+ 	 margin: 0mm !important;
+}
+
+div.contentwraper
+{
+	page: contentwraper;
+	border: 1px solid #000000;
+	padding: 2px 2px 2px 2px;
+	 margin: 0px;
+}
+
+.left
+{
+	float: left;
+}
+.right
+{
+	float: right;
+}
+.clear
+{
+	clear: both;
+}
+
+.challanbox
+{
+	float: left;
+	width: 32%;
+	margin: 4px 4px 4px 6px;
+	border: 1px solid #000000;
+}
+
+.headerbox
+{
+	float: left;
+	width: 100%;
+}
+
+.banklogo
+{
+	float: left;
+	padding: 5px 0 5px 80px;
+	width: 74%;
+	border-top: 1px solid #000000;
+}
+.banklogo img
+{
+	height: 32px;
+	width: 150px;
+}
+.heading
+{
+	font: bold 12px/15px 'Arial';
+	text-align: left;
+	padding-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	white-space: nowrap;
+}
+
+.subheading
+{
+	clear: both;
+	float: right;
+	font: bold 9px/11px 'Arial';
+	text-align: left;
+	padding: 0px 15px 10px 0px;
+	white-space: nowrap;
+}
+.datacontainer
+{
+	float: left;
+	width: 94%;
+	font: 10px/13px 'Arial';
+	padding: 6px 8px 0px 9px;
+	border-top: 1px solid #000000;
+}
+.datacontainer_nb
+{
+	float: left;
+	width: 94%;
+	font: 10px/13px 'Arial';
+	padding: 6px 8px 0px 9px;
+}
+.box
+{
+	float: left;
+	padding: 8px;
+	width: 94%;
+	margin-top: 3px;
+	border: 1px solid #000000;
+}
+.box_jrn
+{
+	float: left;
+	padding: 5px 8px 5px 8px;
+	width: 94%;
+	margin-top: 3px;
+	border: 1px solid #000000;
+}
+.wrap
+{
+	width: 99%;
+	clear: both;
+	float: left;
+	padding: 5px 0px;
+}
+
+.lablel
+{
+	width: 48%;
+	clear: both;
+	float: left;
+	padding: 5px 0px;
+	font: 11px/11px 'Arial';
+}
+
+.value
+{
+	width: 48%;
+	float: left;
+	padding: 5px 0px;
+	font: 11px/11px 'Arial';
+}
+
+.Sep
+{
+	height: 10px;
+}
+.Sep2
+{
+	height: 50px;
+}
+.p5
+{
+	padding: 5px;
+}
+.value_dash
+{
+	width: 48%;
+	float: left;
+	padding: 5px 0px;
+	font: 11px/5px 'Arial';
+	border-bottom: 1px dotted #000000;
+}

@@ -1,0 +1,331 @@
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #F5F2ED;
+	text-align:center;
+}
+.cal .ajax__calendar_header
+ {
+	 background-color: Silver;
+ }
+ .cal .ajax__calendar_container
+ {
+     background-color: Gray; 
+ } 
+         
+.title
+{
+font-family:Arial,tahoma,verdana,sans-serif;
+font-size:16px;
+font-weight:bold;
+color:#000000;
+}
+.title1
+{
+font-family:Arial,tahoma,verdana,sans-serif;
+font-size:14px;
+font-weight:bold;
+color:#000000;
+}
+.title1 a
+{
+font-family:tahoma,verdana,sans-serif;
+font-size:11px;
+font-weight:normal;
+color:#204C67;
+}
+.title1 a:hover
+{
+font-family:tahoma,verdana,sans-serif;
+color:#F23802;
+text-decoration:undeline;
+}
+.heading
+{
+font-family:tahoma,verdana,sans-serif;
+font-size:11px;
+font-weight:normal;
+text-decoration:none;
+color:#000000;
+}
+.heading b
+{
+font-family:tahoma,verdana,sans-serif;
+font-size:11px;
+font-weight:bold;
+text-decoration:underline;
+color:#000000;
+}
+.heading1
+{
+font-family:tahoma,verdana,sans-serif;
+font-size:12px;
+font-weight:bolder;
+text-decoration:underline;
+color:#52585C;
+}
+img
+{
+	border-style: none;
+	border-color: inherit;
+	border-width: 0;
+		}
+legend
+{
+COLOR:#000000;
+FONT-FAMILY:tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;
+FONT-SIZE: 11px; 
+font-weight:bold;
+}
+
+.red_text
+{
+COLOR:#ff0000;
+FONT-FAMILY:tahoma,arial, Trebuchet MS;
+FONT-SIZE: 11px; 
+font-weight:normal;
+}
+
+.topnavi {
+	COLOR: #000000; FONT-FAMILY:arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 12px; LINE-HEIGHT: 20px
+}
+.topnavi B {
+	COLOR: #000000; FONT-FAMILY:arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 12px; FONT-WEIGHT: BOLD
+}
+.topnavi A {
+	COLOR: #000000; text-decoration: none
+}
+.topnavi A:hover {
+	COLOR: #000000;
+}
+
+.sidelinks
+{
+COLOR:#000000;
+FONT-FAMILY:tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;
+FONT-SIZE: 11px; 
+font-weight:normal;
+text-decoration:none;
+}
+.sidelinks b {font-weight:bold;}
+.sidelinks a
+{
+	text-decoration:none;
+	color:#11205C;
+}
+.sidelinks a:hover
+{
+	text-decoration:underline;
+	color:#FF0000;
+}
+
+.aboutnavi {
+	COLOR: #11205C; FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;
+	 FONT-SIZE: 11px; LINE-HEIGHT: 120%;
+} 
+
+.aboutnavi B {
+	COLOR: #11205C; FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 11px; FONT-WEIGHT: BOLD;
+}
+.aboutnavi A {
+	COLOR: #11205C; TEXT-DECORATION: none;
+}
+.aboutnavi A:hover {
+	COLOR: #FF0000; TEXT-DECORATION: none;
+	}
+
+.footer {
+	COLOR: #2D57A5; FONT-FAMILY: arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 12px; LINE-HEIGHT: 10px;
+}
+.footer A {
+	COLOR: #2D57A5; text-decoration: none
+}
+.footer A:hover {
+	COLOR: #000000
+}
+
+.gen {
+	COLOR: #242424; FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 16px; LINE-HEIGHT: 150%;
+} 
+.gen B {
+ font-weight:bold;
+}
+.gen A {
+	COLOR: #204C67; TEXT-DECORATION:none;
+}
+.gen A:hover {
+	COLOR: #FF0000; TEXT-DECORATION:none;
+	}
+.genlink {
+	color: #204C67; text-decoration: none ;
+	 FONT-FAMILY: arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 12px; LINE-HEIGHT: 150%;
+} 
+.genlink:hover {
+	color: #FF0000; text-decoration: none ;font-weight:bold; 
+	 FONT-FAMILY: arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 12px; LINE-HEIGHT: 150%;
+} 
+
+
+
+.input 
+{
+	FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 16px; 
+	background-color: #FFFFFF; color: #000000; border: 1px solid #7D7874; width:80%;
+}
+
+.inputsmall 
+{
+	FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 11px; 
+	background-color: #FFFFFF; color: #000000; border: 1px solid #7D7874; width:100%; height:20px;
+}
+.inputnew 
+{
+	FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 16px; 
+	background-color: #FFFFFF; color: #000000; border: 1px solid #7D7874; width:40%;
+}
+.inputaa 
+{
+	FONT-FAMILY: tahoma,arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif; FONT-SIZE: 16px; 
+	background-color: #FFFFFF; color: #000000; border: 1px solid #7D7874; width:100%;
+}
+.input1 {
+	FONT-FAMILY: arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;  FONT-SIZE: 16px; background-color: #FFFFFF; color: #0C1745; border: 1px solid #82C3EB;
+}
+
+.home_bg_text
+{
+	font-size:30px; font-family:arial, Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;
+}
+
+
+.whitetext
+{
+	COLOR: #ffffff; FONT-FAMILY: tahoma,Trebuchet MS, georgia;
+	FONT-SIZE: 11px; LINE-HEIGHT: 120%;
+}
+.whitetext a 
+{
+	color:#ffffff;
+	text-decoration:none;
+}
+.whitetext a:hover
+{
+	color:#ff0000;
+	text-decoration:none;
+}
+
+
+.topmenu ul{
+margin: 0; padding: 0; font-size:12px; font-family: Tahoma,Trebuchet MS, Arial, Helvetica, sans-serif;
+ list-style-type: none;background:#204C67;overflow: hidden;
+width:100%; font-weight:bold;
+}
+
+.topmenu li
+{
+display: inline;margin: 0;
+}
+
+.topmenu li a
+{
+float: left;
+display: block;
+text-decoration: none;
+margin: 0px 0px 0px 0px;
+padding:10px 12px 10px 12px; 
+color:#ffffff;
+
+}
+
+
+.topmenu li a:hover
+{
+ color: #000000;
+ background : #F89F15; /*background of tabs for hover state */
+}
+
+.topmenu .selected a
+{
+color: #EF4323;
+background: #000000; /*background of tab with "selected" class assigned to its LI */
+}
+
+.sidemenu ul{
+margin: 0; padding: 0; font-size:12px; font-family: Tahoma,Trebuchet MS, Arial, Helvetica, sans-serif;
+ list-style-type: none;background:#204C67;overflow: hidden;
+width:100%; font-weight:bold;
+}
+.sidemenu li
+{
+display: inline;margin: 0;
+}
+
+.sidemenu li a
+{
+float:none;
+display: block;
+text-decoration: none;
+margin: 0px 0px 0px 0px;
+padding:6px 12px 6px 12px; 
+color:#ffffff;
+
+}
+.sidemenu li a:hover
+{
+ color: #000000;
+ background : #F89F15; /*background of tabs for hover state */
+ text-decoration:none;
+}
+
+.sidemenu .selected a
+{
+color: #EF4323;
+background: #000000; /*background of tab with "selected" class assigned to its LI */
+text-decoration:none;
+}
+
+
+.sidemenu1 ul{
+margin: 0; padding: 0; font-size:11px; font-family: Tahoma,Trebuchet MS, Arial, Helvetica, sans-serif;
+ list-style-type: none;background:#204C67;overflow: hidden;
+width:100%; font-weight:bold;
+}
+.sidemenu1 li
+{
+display: inline;margin: 0;
+}
+
+.sidemenu1 li a
+{
+float:none;
+display: block;
+text-decoration: none;
+margin: 0px 0px 0px 0px;
+padding:3px 12px 3px 12px; 
+color:#ffffff;
+
+}
+.sidemenu1 li a:hover
+{
+ color: #000000;
+ background : #F89F15; /*background of tabs for hover state */
+ text-decoration:none;
+}
+
+.sidemenu1 .selected a
+{
+color: #EF4323;
+background: #000000; /*background of tab with "selected" class assigned to its LI */
+text-decoration:none;
+}
+
+
+h1{	font-size:30px; font-family:Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;}
+h1 a {	text-decoration:none; color:#9C2586;}
+h1 a:hover{text-decoration:none; color:#F89F15;}
+h2{	font-size:18px; font-family:Trebuchet MS, georgia, Times New Roman, verdana,ms sans serif;}
+h2 a{	text-decoration:none; color:#9C2586;}
+h2 a:hover{	text-decoration:none; color:#F36E15;}
